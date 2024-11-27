@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Violent Activity Detection from Live Video Footage](https://github.com/Aakash-777/Live-Activity-and-Violence-Detection)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **AI-ML based projects**
 
